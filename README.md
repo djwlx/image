@@ -1,2 +1,2 @@
-# img
-personal picture
+# Image
+Image hosting service
